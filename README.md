@@ -4,7 +4,7 @@ Global Solution - Edge Computing
 # GLOBAL SOLUTION 01 EDGE COMPUTING
 
 # Projeto: Monitoramento de Iluminação Subaquática com Arduino
-![Imagem README Edge GS](https://github.com/LuanOrlandelli/global-solution-edge/assets/161336507/5cce7866-9ce3-4231-a255-d5b2d2ab64b8)
+
 
 ## Integrantes
 - **Luan Orlandelli (RM: 554747)**
@@ -52,7 +52,7 @@ Os componentes necessários para este projeto são:
     - Conecte o catodo do LED vermelho ao GND.
 
 ## Imagem do projeto
-
+![Imagem README Edge GS](https://github.com/LuanOrlandelli/global-solution-edge/assets/161336507/5cce7866-9ce3-4231-a255-d5b2d2ab64b8)
 
 
 ## Considerações Finais
